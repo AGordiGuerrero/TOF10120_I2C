@@ -17,16 +17,13 @@
  
 #include <Wire.h>
  
-//unsigned char ok_flag;
-//unsigned char fail_flag;
- 
 unsigned short lenth_val = 0;
 unsigned char i2c_rx_buf[16];
 unsigned char dirsend_flag=0;
 
 // Using different I2C addresses for testing
-//unsigned int TOF_I2Caddress=82; //(0x52 hex) (default i2c address)
-unsigned int TOF_I2Caddress=2; //(0x5 hex)
+unsigned int TOF_I2Caddress=82; //(0x52 hex) (module's default i2c address)
+//unsigned int TOF_I2Caddress=2; //(0x5 hex)
 //unsigned int TOF_I2Caddress=3; //(0x03 hex)
  
 void setup() {
