@@ -6,8 +6,10 @@ Required libraries:
   - Wire.h 
 
 Codes:
-  - TOF10120_i2c_V1: simple version with delays for defining timing.
-  - TOF10120_i2c_V2: simple version with `millis()` for defining timing.
+  - TOF10120_i2c_V1: 
+    - Version with delays for defining timing. Can be used for different i2c addresses.
+  - TOF10120_i2c_V2:
+    - Version with `millis()` for defining timing.
   - TOF10120_i2c_discardstranges_V1: 
     - Discard values out of a given range.
     - Try to do some lectures before giving the message of "out of range value".
