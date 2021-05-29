@@ -8,7 +8,6 @@ Required libraries:
 Codes:
   - TOF10120_i2c_V1: simple version with delays for defining timing.
   - TOF10120_i2c_V2: simple version with millis() for defining timing.
-  -
 
 Adapted from code of [https://surtrtech.com](https://surtrtech.com/2019/03/18/easy-use-of-tof-10120-laser-rangefinder-to-measure-distance-with-arduino-lcd/).
 
