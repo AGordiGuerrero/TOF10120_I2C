@@ -2,6 +2,8 @@
 
 Simple codes to read distance measurements (in mm) from a [TOF10120 LIDAR module](https://www.banggood.com/search/tof10120.html?from=nav). Based on [VL53L0X chip](https://www.banggood.com/search/vl53lox.html?from=nav). Both of them quite cheap.
 
+
+
 Required libraries:
   - Wire.h 
 
