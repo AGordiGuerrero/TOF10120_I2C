@@ -35,8 +35,8 @@ int previousMillisRead=0;
 int readPeriod=100; //in milliseconds
 
 // range variable
-int max_x=400; // maximun allowed distance value
-int min_x=40; // minimun allowed distance value
+int max_x=400; // maximum allowed distance value
+int min_x=40; // minimum allowed distance value
 uint8_t flagGood=0; // flag 1 when distance is in range ( min_x <= x <= max_x ) 
 int read_count=0;
 int read_count_max=50; // maximun numbers of measure trials before restarting the process
