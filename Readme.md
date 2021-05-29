@@ -11,7 +11,10 @@ Codes:
   - TOF10120_i2c_discardstranges_V1: 
     - Discard values out of a given range.
     - Try to do some lectures before giving the message of "out of range value".
-
+  - TOF10120_i2c_average_discardstranges_V1: 
+    - Discard values out of a given range.
+    - Try to do some lectures before giving the message of "out of range value".
+    - Perform the average of `NMEASURES` in range measures, giving standard deviation and standard error using 95% Student's coefficient.
 
 Adapted from code of [https://surtrtech.com](https://surtrtech.com/2019/03/18/easy-use-of-tof-10120-laser-rangefinder-to-measure-distance-with-arduino-lcd/).
 
