@@ -15,4 +15,4 @@ Codes:
 
 Adapted from code of [https://surtrtech.com](https://surtrtech.com/2019/03/18/easy-use-of-tof-10120-laser-rangefinder-to-measure-distance-with-arduino-lcd/).
 
-You can find the whole information of the project (in Spanish) at [Smart Open Lab](https://www.smartopenlab.com/proyecto/tutorial-de-uso-del-sensor-lidar-tof10120/)
+You can find the whole information (in Spanish) at [Smart Open Lab](https://www.smartopenlab.com/proyecto/tutorial-de-uso-del-sensor-lidar-tof10120/)
